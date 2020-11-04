@@ -7,4 +7,5 @@ Explanation about how these two hooks work
 ### `Structure`
 
 contains an "Issue" component showing bad practices
+
 contains a "Solution" component showing a good practice with hooks
